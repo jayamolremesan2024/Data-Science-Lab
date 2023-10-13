@@ -1,0 +1,13 @@
+print("JAYAMOL REMESAN")
+print("--SJC22MCA-2031--")
+print("--20MCA241--DATA SCIENCE LAB--")
+import numpy as np
+uninitialized_array = np.empty((3, 3))
+ones_array = np.ones((3, 3))
+zeros_array = np.zeros((3, 3))
+print("Uninitialized Array:")
+print(uninitialized_array)
+print("\nArray with all elements as 1:")
+print(ones_array)
+print("\nArray with all elements as 0:")
+print(zeros_array)

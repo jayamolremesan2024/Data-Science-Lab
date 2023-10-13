@@ -1,0 +1,11 @@
+print("JAYAMOL REMESAN")
+print("--SJC22MCA-2031--")
+print("--20MCA241--DATA SCIENCE LAB--")
+import numpy as np
+arr = np.arange(10)
+print("a. First 4 elements:")
+print(arr[:4])
+print("\nb. Last 6 elements:")
+print(arr[-6:])
+print("\nc. Elements from index 2 to 7:")
+print(arr[2:8])
